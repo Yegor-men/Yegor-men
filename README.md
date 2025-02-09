@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Currently working on:
+- VAE[vae]
+
+### Future projects:
+
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
