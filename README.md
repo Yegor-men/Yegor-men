@@ -12,7 +12,7 @@ I haven't yet attended univerisity, so everything here is self taught from the r
 # Contact
 I am open to collaboration, you can contact me via
 
-[Email](yegor.mn@gmail.com) | [LinkedIn]() | [Twitter/X]() | [Bluesky]()
+[Email](yegor.mn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yegor-menovchshikov-313150350/) | [Twitter / X](https://x.com/Yegor_Men) | [Bluesky](https://bsky.app/profile/yegormen.bsky.social)
 
 # My projects
 
