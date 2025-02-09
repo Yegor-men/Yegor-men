@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Currently working on:
-- VAE[vae]
+- VAE[https://github.com/Yegor-men/vae]
 
 ### Future projects:
 
