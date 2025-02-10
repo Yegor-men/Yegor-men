@@ -1,14 +1,3 @@
-# About Me
-I'm interested in Data Science, largely in Artificial intelligence, but more specifically in Machine Learning and especially Deep Learning.
-
-I haven't yet attended univerisity, so everything here is self taught from the resources I could find. I am always willing to learn more/extra and plan on continuing to do so.
-
-# Roadmap / Goals / Interests
-- Reinforcement Learning
-- Arbitrary length sequential encoding
-- Latent space reasoning
-- Non proprietary reliant frameworks
-
 # Contact
 I am open to collaboration, you can contact me via
 
