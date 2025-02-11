@@ -1,8 +1,3 @@
-# Contact
-I am open to collaboration, you can contact me via
-
-Email (yegor.mn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yegor-menovchshikov-313150350/) | [Twitter / X](https://x.com/Yegor_Men) | [Bluesky](https://bsky.app/profile/yegormen.bsky.social)
-
 # My projects
 
 ## Currently working on:
@@ -26,6 +21,10 @@ Email (yegor.mn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yegor-menovc
 - [Pytorch learning course made by Daniel Bourke](https://github.com/Yegor-men/learning-pytorch-from-daniel-bourke) - My repo for following along with Daniel Bourke's pytorch learning course
 - [Neural nets in raw python](https://github.com/Yegor-men/raw-python-neural-nets) - My earliest project where I made neural nets without libraries and with only numpy
 
+# Contact
+I am open to collaboration, you can contact me via
+
+Email (yegor.mn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yegor-menovchshikov-313150350/) | [Twitter / X](https://x.com/Yegor_Men) | [Bluesky](https://bsky.app/profile/yegormen.bsky.social)
 
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
