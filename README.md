@@ -13,14 +13,14 @@
 - [Latent space reasoning LMs](https://github.com/Yegor-men/Latent-Space-LMs) - A series of language models which think in the latent space rather than the token space
 
 ## Completed (I will not be going back to this / very little updates)
-- [Tic Tac Toe with reinfocement learning](https://github.com/Yegor-men/tic-tac-toe-rl) - A model that can play Tic Tac Toe learnt entirely through reinforcement learning
-- [Variable autoencoder](https://github.com/Yegor-men/vae) - Various VAE architectures, largely aiming to recreate the Stable Diffusion VAEs but also wanting to create a 16x height/width reduction vae to be used on 2MP+ images with fast inference and accurate reconstruction
-- [Iris classification](https://github.com/Yegor-men/iris-classification) - A model trained on the Iris classification dataset
-- [MNIST](https://github.com/Yegor-men/mnist) - A series of models trained on the MNIST type datasets
-- [Harmonic Loss paper](https://github.com/Yegor-men/harmonic-loss) - My implementation of the harmonic loss paper and other experiments based on using euclidean distance as probabilities
-- [Sequential encode tests](https://github.com/Yegor-men/sequential-encode-tests) - My (very) naive and early attempts at creating sequential encoding models
-- [Pytorch learning course made by Daniel Bourke](https://github.com/Yegor-men/learning-pytorch-from-daniel-bourke) - My repo for following along with Daniel Bourke's pytorch learning course
-- [Neural nets in raw python](https://github.com/Yegor-men/raw-python-neural-nets) - My earliest project where I made neural nets without libraries and with only numpy
+- [11/02/2025] [Tic Tac Toe with reinfocement learning](https://github.com/Yegor-men/tic-tac-toe-rl) - A model that can play Tic Tac Toe learnt entirely through reinforcement learning
+- [10/02/2025] [Variable autoencoder](https://github.com/Yegor-men/vae) - Various VAE architectures, largely aiming to recreate the Stable Diffusion VAEs but also wanting to create a 16x height/width reduction vae to be used on 2MP+ images with fast inference and accurate reconstruction
+- [08/02/2025] [Iris classification](https://github.com/Yegor-men/iris-classification) - A model trained on the Iris classification dataset
+- [08/02/2025] [MNIST](https://github.com/Yegor-men/mnist) - A series of models trained on the MNIST type datasets
+- [07/02/2025] [Harmonic Loss paper](https://github.com/Yegor-men/harmonic-loss) - My implementation of the harmonic loss paper and other experiments based on using euclidean distance as probabilities
+- [07/02/2025] [Sequential encode tests](https://github.com/Yegor-men/sequential-encode-tests) - My (very) naive and early attempts at creating sequential encoding models
+- [20/01/2025] [Pytorch learning course made by Daniel Bourke](https://github.com/Yegor-men/learning-pytorch-from-daniel-bourke) - My repo for following along with Daniel Bourke's pytorch learning course
+- [19/02/2024] [Neural nets in raw python](https://github.com/Yegor-men/raw-python-neural-nets) - My earliest project where I made neural nets without libraries and with only numpy
 
 # Contact
 I am open to collaboration, you can contact me via
