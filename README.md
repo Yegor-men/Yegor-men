@@ -1,19 +1,20 @@
 # My projects
 
 ## Currently working on:
-- [Variable autoencoder](https://github.com/Yegor-men/vae) - Various VAE architectures, largely aiming to recreate the Stable Diffusion VAEs but also wanting to create a 16x height/width reduction vae to be used on 2MP+ images with fast inference and accurate reconstruction
-- [Tic Tac Toe with reinfocement learning](https://github.com/Yegor-men/tic-tac-toe-rl) - A model that can play Tic Tac Toe learnt entirely through reinforcement learning
+- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture
+- [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
+- [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
 
 ## Future projects:
-- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture
-- Small LMs - Small language models of various architectures but recreated with my own code from scratch
-- [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
-- Diffusions - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
-- [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
-- Sequential token by token text encoding - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
-- Realtime screen analysis and response model - A model that continuously takes in screenshots, its own internal monologue and produces some cohesive output. Designed to be as a form of autonomous agent with free reign
+- [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
+- [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
+- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
+- [Realtime screen analysis and response model](https://github.com/Yegor-men/Realtime-Screen-Analysis-and-Response-Model-RSARM-) - A model that continuously takes in screenshots, its own internal monologue and produces some cohesive output. Designed to be as a form of autonomous agent with free reign
+- [Latent space reasoning LMs](https://github.com/Yegor-men/Latent-Space-LMs) - A series of language models which think in the latent space rather than the token space
 
 ## Completed (I will not be going back to this / very little updates)
+- [Tic Tac Toe with reinfocement learning](https://github.com/Yegor-men/tic-tac-toe-rl) - A model that can play Tic Tac Toe learnt entirely through reinforcement learning
+- [Variable autoencoder](https://github.com/Yegor-men/vae) - Various VAE architectures, largely aiming to recreate the Stable Diffusion VAEs but also wanting to create a 16x height/width reduction vae to be used on 2MP+ images with fast inference and accurate reconstruction
 - [Iris classification](https://github.com/Yegor-men/iris-classification) - A model trained on the Iris classification dataset
 - [MNIST](https://github.com/Yegor-men/mnist) - A series of models trained on the MNIST type datasets
 - [Harmonic Loss paper](https://github.com/Yegor-men/harmonic-loss) - My implementation of the harmonic loss paper and other experiments based on using euclidean distance as probabilities
