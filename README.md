@@ -18,7 +18,6 @@
 - [08/02/2025] [Iris classification](https://github.com/Yegor-men/iris-classification) - A model trained on the Iris classification dataset
 - [08/02/2025] [MNIST](https://github.com/Yegor-men/mnist) - A series of models trained on the MNIST type datasets
 - [07/02/2025] [Harmonic Loss paper](https://github.com/Yegor-men/harmonic-loss) - My implementation of the harmonic loss paper and other experiments based on using euclidean distance as probabilities
-- [07/02/2025] [Sequential encode tests](https://github.com/Yegor-men/sequential-encode-tests) - My (very) naive and early attempts at creating sequential encoding models
 - [20/01/2025] [Pytorch learning course made by Daniel Bourke](https://github.com/Yegor-men/learning-pytorch-from-daniel-bourke) - My repo for following along with Daniel Bourke's pytorch learning course
 - [19/02/2024] [Neural nets in raw python](https://github.com/Yegor-men/raw-python-neural-nets) - My earliest project where I made neural nets without libraries and with only numpy
 
