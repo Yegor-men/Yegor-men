@@ -1,14 +1,15 @@
 # My projects
 
 ## Currently working on:
-- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture
-- [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
-- [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
+- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
+- [RWKV investigation] - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
 
 ## Future projects:
+- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
+- [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
+- [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
 - [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
 - [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
-- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 - [Realtime screen analysis and response model](https://github.com/Yegor-men/Realtime-Screen-Analysis-and-Response-Model-RSARM-) - A model that continuously takes in screenshots, its own internal monologue and produces some cohesive output. Designed to be as a form of autonomous agent with free reign
 - [Latent space reasoning LMs](https://github.com/Yegor-men/Latent-Space-LMs) - A series of language models which think in the latent space rather than the token space
 
