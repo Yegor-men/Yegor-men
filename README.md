@@ -3,9 +3,9 @@
 ## Currently working on:
 - [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
 - [RWKV investigation](https://github.com/Yegor-men/RWKV) - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
+- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 
 ## Future projects:
-- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 - [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
 - [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
 - [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
