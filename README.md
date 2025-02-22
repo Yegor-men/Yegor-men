@@ -3,6 +3,7 @@
 ## Currently working on:
 - [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
 - [RWKV investigation](https://github.com/Yegor-men/RWKV) - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
+- [Transformer Stock Trader](https://github.com/Yegor-men/Transformer-Stock-Trader) - A transformer based model to try predict stock prices
 - [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 
 ## Future projects:
