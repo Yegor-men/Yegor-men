@@ -1,9 +1,11 @@
 # My projects
 
 ## Currently working on:
+- [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
+
+## On hold:
 - [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
 - [RWKV investigation](https://github.com/Yegor-men/RWKV) - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
-- [Transformer Stock Trader](https://github.com/Yegor-men/Transformer-Stock-Trader) - A transformer based model to try predict stock prices
 - [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 
 ## Future projects:
@@ -15,6 +17,7 @@
 - [Latent space reasoning LMs](https://github.com/Yegor-men/Latent-Space-LMs) - A series of language models which think in the latent space rather than the token space
 
 ## Completed (I will not be going back to this / very little updates)
+- [22/02/2023] [Transformer Stock Trader](https://github.com/Yegor-men/Transformer-Stock-Trader) - A transformer based model to try predict stock prices
 - [11/02/2025] [Tic Tac Toe with reinfocement learning](https://github.com/Yegor-men/tic-tac-toe-rl) - A model that can play Tic Tac Toe learnt entirely through reinforcement learning
 - [10/02/2025] [Variable autoencoder](https://github.com/Yegor-men/vae) - Various VAE architectures, largely aiming to recreate the Stable Diffusion VAEs but also wanting to create a 16x height/width reduction vae to be used on 2MP+ images with fast inference and accurate reconstruction
 - [08/02/2025] [Iris classification](https://github.com/Yegor-men/iris-classification) - A model trained on the Iris classification dataset
