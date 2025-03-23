@@ -2,6 +2,7 @@
 
 ## Currently working on:
 - [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
+- [MultiLinear layers](https://github.com/Yegor-men/MultiLinear-layer) - An investigation on if adding a bias to the input rather than the neuron output can improve quality
 
 ## On hold:
 - [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
