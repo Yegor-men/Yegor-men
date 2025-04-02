@@ -3,9 +3,9 @@
 ## Currently working on:
 - [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
 - [Semantic de-duplication](https://github.com/Yegor-men/Semantic-De-duplication) - Detecting and removing mass duplicates from databases
+- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch
 
 ## On hold:
-- [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch.
 - [RWKV investigation](https://github.com/Yegor-men/RWKV) - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
 - [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
 
