@@ -4,6 +4,7 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 # My projects
 
 ## Currently working on:
+- [replAI](https://github.com/Yegor-men/replAI) - A frontend for chatting with AI, aimed to simulate natural text message conversations
 - [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
 
 ## On hold / soon to start:
