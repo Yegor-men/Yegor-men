@@ -4,21 +4,14 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 # My projects
 
 ## Currently working on:
-- [replAI](https://github.com/Yegor-men/replAI) - A framework for naturally texting with an LLM that can chain messages, respond, see time delays, images, send them, creating a maximally "human" interaction
-
-## On hold / soon to start:
 - [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
-- [Latent space reasoning LMs](https://github.com/Yegor-men/Latent-Space-LMs) - A series of language models which think in the latent space rather than the token space
 - [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
 
-## Future projects:
-- [RWKV investigation](https://github.com/Yegor-men/RWKV) - A saint made all that I desired, a sequential, linear time, linear space LM that matches transformers: https://github.com/BlinkDL/RWKV-LM, I want to look into it
-- [Sequential token by token text encoding](https://github.com/Yegor-men/Sequential-Text-Encoding-LMs) - A model that is to encode a text of arbitrary length into a fixed latent space via sequential token by token encoding
-- [Sequential frame by frame video encoding](https://github.com/Yegor-men/sequential-video-encode) - A model that is to encode a video of arbitrary length into a fixed size latent space via sequential frame by frame encoding
-- [Stable Diffusion recreation](https://github.com/Yegor-men/sd15) - A recreation of the Stable Diffusion 1.5 architecture/model
-- [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
-- [Realtime screen analysis and response model](https://github.com/Yegor-men/Realtime-Screen-Analysis-and-Response-Model-RSARM-) - A model that continuously takes in screenshots, its own internal monologue and produces some cohesive output. Designed to be as a form of autonomous agent with free reign
+## On hold / soon to start:
+- [replAI](https://github.com/Yegor-men/replAI) - A framework for naturally texting with an LLM that can chain messages, respond, see time delays, images, send them, creating a maximally "human" interaction
 
+## Future projects:
+- [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
 
 ## Completed (I will not be going back to this / very little updates)
 - [06/04/2025] [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch. Once I figured the transformer blocks were working I moved to [Small LMs](https://github.com/Yegor-men/Small-LMs) for cleaner and more refined implementations.
