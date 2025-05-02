@@ -4,10 +4,11 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 # My projects
 
 ## Currently working on:
-- [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
-- [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
+- [Cyber Biological Neurons](https://github.com/Yegor-men/cyber_biological_neurons) - A whacky idea of mine to recreate how biological neurons work but make them digital instead
 
 ## On hold / soon to start:
+- [Small LMs](https://github.com/Yegor-men/Small-LMs) - Small language models of various architectures but recreated with my own code from scratch
+- [SMRL](https://github.com/Yegor-men/Surprise-Minimization-RL) - The idea that RL models can be taught via surprise mimimization, lowering the difference between the expected and observed outcomes of actions in some environment
 - [replAI](https://github.com/Yegor-men/replAI) - A framework for naturally texting with an LLM that can chain messages, respond, see time delays, images, send them, creating a maximally "human" interaction
 
 ## Future projects:
