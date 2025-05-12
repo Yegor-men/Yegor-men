@@ -15,7 +15,7 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 - [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
 
 ## Completed (I will not be going back to this / very little updates)
-- [Cyber Biological Neurons](https://github.com/Yegor-men/cyber_biological_neurons) - A whacky idea of mine to recreate how biological neurons work but make them digital instead
+- [12/05/2025] [Cyber Biological Neurons](https://github.com/Yegor-men/cyber_biological_neurons) - A whacky idea of mine to recreate how biological neurons work but make them digital instead
 - [06/04/2025] [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch. Once I figured the transformer blocks were working I moved to [Small LMs](https://github.com/Yegor-men/Small-LMs) for cleaner and more refined implementations.
 - [29/03/2025] [Semantic de-duplication](https://github.com/Yegor-men/Semantic-De-duplication) - Detecting and removing mass duplicates from databases
 - [22/02/2023] [Transformer Stock Trader](https://github.com/Yegor-men/Transformer-Stock-Trader) - A transformer based model to try predict stock prices. Just a simple test for feasibility. A quick test reveals its not so simple.
