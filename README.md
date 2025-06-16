@@ -4,6 +4,7 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 # My projects
 
 ## Currently working on:
+- [Scale Invariant Probabilistic Neurons](https://github.com/Yegor-men/Scale-Invariant-Probabilistic-Neurons) - A silly test on scale invariant networks (a state of criticality). Done by having the synapse strength represent the probability that the postsynaptic neuron j fires given that the presynaptic neuron fires.
 - [Sinlge Lifetime Learning (SLL)](https://github.com/Yegor-men/SLL) - Models which train in a single lifetime (SNNs, RTRL/e-prop, R-STDP, etc.)
 
 ## On hold / soon to start:
