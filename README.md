@@ -4,7 +4,7 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 # My projects
 
 ## Currently working on:
-- [Scale Invariant Probabilistic Neurons](https://github.com/Yegor-men/Scale-Invariant-Probabilistic-Neurons) - A silly test on scale invariant networks (a state of criticality). Done by having the synapse strength represent the probability that the postsynaptic neuron j fires given that the presynaptic neuron fires.
+- [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time) - The idea that a neuron layer can pass gradients upstream to the previous neurons - a biologically plausible BPTT alternative.
 - [Sinlge Lifetime Learning (SLL)](https://github.com/Yegor-men/SLL) - Models which train in a single lifetime (SNNs, RTRL/e-prop, R-STDP, etc.)
 
 ## On hold / soon to start:
@@ -16,6 +16,7 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 - [Diffusions](https://github.com/Yegor-men/Diffusions) - Various diffusion based models of various arhcitectures but recreated with my own code from scratch
 
 ## Completed (I will not be going back to this / very little updates)
+- [17/06/2025] [Scale Invariant Probabilistic Neurons](https://github.com/Yegor-men/Scale-Invariant-Probabilistic-Neurons) - A silly test on scale invariant networks (a state of criticality). Done by having the synapse strength represent the probability that the postsynaptic neuron j fires given that the presynaptic neuron fires.
 - [12/05/2025] [Cyber Biological Neurons](https://github.com/Yegor-men/cyber_biological_neurons) - A whacky idea of mine to recreate how biological neurons work but make them digital instead
 - [06/04/2025] [GPT2 recreation](https://github.com/Yegor-men/gpt2) - A recreation of the GPT2 architecture, largely aiming to recreate the attention mechanism from scratch. Once I figured the transformer blocks were working I moved to [Small LMs](https://github.com/Yegor-men/Small-LMs) for cleaner and more refined implementations.
 - [29/03/2025] [Semantic de-duplication](https://github.com/Yegor-men/Semantic-De-duplication) - Detecting and removing mass duplicates from databases
