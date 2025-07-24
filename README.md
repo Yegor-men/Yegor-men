@@ -1,4 +1,4 @@
-A random assortment of my project. Mostly AI focused to some extent. Depends.
+A random assortment of my projects. Mostly AI focused to some extent. Depends.
 
 ## Currently working on:
 - [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time) - The idea that a neuron layer can pass gradients upstream to the previous neurons - a biologically plausible BPTT alternative.
