@@ -1,7 +1,4 @@
-# What is this?
-All projects listed here are (as of now at the very least) pretty much entirely self taught. I'd like to see how far this can be taken, how much can be learnt, recreated and (hopefully) invented/created without formal education.
-
-# My projects
+A random assortment of my project. Mostly AI focused to some extent. Depends.
 
 ## Currently working on:
 - [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time) - The idea that a neuron layer can pass gradients upstream to the previous neurons - a biologically plausible BPTT alternative.
@@ -29,10 +26,6 @@ All projects listed here are (as of now at the very least) pretty much entirely 
 - [20/01/2025] [Pytorch learning course made by Daniel Bourke](https://github.com/Yegor-men/learning-pytorch-from-daniel-bourke) - My repo for following along with Daniel Bourke's pytorch learning course.
 - [19/02/2024] [Neural nets in raw python](https://github.com/Yegor-men/raw-python-neural-nets) - My earliest project where I made neural nets without libraries and with only numpy.
 
-# Contact
-I am open to collaboration, you can contact me via
-
-Email (yegor.mn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yegor-menovchshikov-313150350/) | [Twitter / X](https://x.com/Yegor_Men) | [Bluesky](https://bsky.app/profile/yegormen.bsky.social)
 
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
