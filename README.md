@@ -12,11 +12,11 @@ My playground for various ML projects, largely revolving around textgen and imag
 
 ### Sunsetted:
 Projects are classified into different categories:
- - 🧱 Out of Scope: projects that I stopped doing because (at the time of doing them) they were infeasible to me; lack of skill, hardware, anything that made me hit a wall.
- - 💥 Failed Experiment: projects that I started doing because I thought would work in theory, but did not in practice; it could maybe work with a rework, but I don't know.
- - 😴 Abandoned: projects that I abandoned out of loss of interest, regardless of their relative success or failure.
- - 🔁 Superseded: projects that work, they are technically funcitonal, but they are either impractical or the code is clumsy; if I haven't already I'd prefer to redo it from a clean slate.
- - ✅ Completed: projects that have fulfilled their duty; they work, there is nothing more to add to or gain from them.
+ - 🧱 **Out of Scope**: projects that I stopped doing because (at the time of doing them) they were infeasible to me; lack of skill, hardware, anything that made me hit a wall.
+ - 💥 **Failed Experiment**: projects that I started doing because I thought would work in theory, but did not in practice; it could maybe work with a rework, but I don't know.
+ - 😴 **Abandoned**: projects that I abandoned out of loss of interest, regardless of their relative success or failure.
+ - 🔁 **Superseded**: projects that work, they are technically funcitonal, but they are either impractical or the code is clumsy; if I haven't already I'd prefer to redo it from a clean slate.
+ - ✅ **Completed**: projects that have fulfilled their duty; they work, there is nothing more to add to or gain from them.
 
 - #### [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time) - 🔁 Superseded [Last commit on 30/07/2025]
 A biologically plausible alternative to BPTT as long as neurons are able to send signals upstream, not just downstream. Given the technical simplicity of backpropagation (it's just value retrieval), in itself it's not that biologically implausible. All you do is just a forward and backward pass in one step, and hence you have backpropagation literally occuring over time, and everything is local.
