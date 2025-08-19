@@ -3,12 +3,14 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 
 ## Projects
 ### Active Development:
-- #### [tracetorch](https://github.com/Yegor-men/tracetorch)
-The natural successor to [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time), tracetorch revolves around maintaining and using traces instead of autograd for backpropagation. The idea is that a trace is, by definition, a weighted running average, favoring temporally near events, and hence those that are most likely to affect the model. During the backward pass, as long as the traces and parameters could be used to estimate the "average" output of each layer, the recurrent model should in theory hence be able to compress an arbitrarily massive history into effectively one forward pass, without actually building the autograd graph. Also, the RL REINFORCE methodology now changes from "which actions lead to better rewards in the future" to "which actions in a greedy approach seem most profitable", which ideologically aligns closer to what we see in humans and their development: egotistical short term thinking that progressively expands into long term strategizing rather than the REINFORCE style long term strategizing from the get go.
+- #### [traceTorch](https://github.com/Yegor-men/tracetorch)
+The natural successor to [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time), ``traceTorch`` revolves around maintaining and using traces instead of a full autograd graph for backpropagation. A trace is a weighted running average that favors recent events, those that are most likely to have affected the model's recent outputs. Each layer stores this input trace, so that during the backward pass, by computing the average input required to get this trace, and by using the parameters used in the forward pass, it's possible to estimate the "average output" of the layer. This recurrent model should in theory hence be able to compress an arbitrarily massive history into effectively one forward pass, without actually building the autograd graph. Additionally, ``traceTorch`` also includes REFLECT, the realtime alternative to REINFORCE. It too, utilizes the trace mechanic to allow for online learning.
+
+``traceTorch`` _is not_ better than normal PyTorch autograd for the vast majority of usecases, or, rather, it's designed to do what normal PyTorch cannot: online learning in constant memory consumption. While it does support "normal" training, it is worse across the board, both mathematically and in practice. I created this because I wanted to play around with true online learning, not to make yet another SNN library.
 
 ### On Hold:
 - #### [ml-playground](https://github.com/Yegor-men/ml-playground)
-My playground for various ML projects, largely revolving around textgen and imagegen, or anything else that appears along the way. Got tired of having a billion repositories for things that are already well known / implemented, so now they'll be in here instead.
+My playground for various ML projects, in no specific order or grouping. I just got tired of having a billion repositories, needing to log each one while generally reusing a fair portion of the code, so from now on everything (unless it's something specific) will be in here instead.
 
 ### Sunsetted:
 Projects are classified into different categories:
