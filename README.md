@@ -4,9 +4,10 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 ## Projects
 ### Active Development:
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
-The natural successor to [BPOT (Back Propagation Over Time)](https://github.com/Yegor-men/BPOT-Back-Propagation-Over-Time), ``traceTorch`` revolves around maintaining and using traces instead of a full autograd graph for backpropagation. A trace is a weighted running average that favors recent events, those that are most likely to have affected the model's recent outputs. Each layer stores this input trace, so that during the backward pass, by computing the average input required to get this trace, and by using the parameters used in the forward pass, it's possible to estimate the "average output" of the layer. This recurrent model should in theory hence be able to compress an arbitrarily massive history into effectively one forward pass, without actually building the autograd graph. Additionally, ``traceTorch`` also includes REFLECT, the realtime alternative to REINFORCE. It too, utilizes the trace mechanic to allow for online learning.
+A python library implementing eligibility propagation in an easy to use, PyTorch-esque manner.
 
-``traceTorch`` _is not_ better than normal PyTorch autograd for the vast majority of usecases, or, rather, it's designed to do what normal PyTorch cannot: online learning in constant memory consumption. While it does support "normal" training, it is worse across the board, both mathematically and in practice. I created this because I wanted to play around with true online learning, not to make yet another SNN library.
+- #### [S2IR](https://github.com/Yegor-men/S2IR)
+Scale Invariant Image Refiner. Treats pixels like tokens, uses axial and cross attention with per-pixel conditioning and relative positional embedding, trained to predict noise like a diffusion model.
 
 ### On Hold:
 - #### [ml-playground](https://github.com/Yegor-men/ml-playground)
