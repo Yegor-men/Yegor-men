@@ -2,14 +2,12 @@
 I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtime learning. I don't think there's anything inherently special in human intelligence, and hence I think it can be computationally recreated. Since real-time learning occurs in biological systems through spiking mechanisms, I see SNNs as a promising direction toward achieving similar capabilities in artificial systems.
 
 ## Projects
-### Active Development:
+### In Development:
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A python library implementing eligibility propagation in an easy to use, PyTorch-esque manner.
 
 - #### [ml-playground](https://github.com/Yegor-men/ml-playground)
 My playground for various ML projects, in no specific order or grouping. I just got tired of having a billion repositories, needing to log each one while generally reusing a fair portion of the code, so from now on everything (unless it's something specific) will be in here instead.
-
-### On Hold:
 
 - #### [S2IR](https://github.com/Yegor-men/S2IR)
 Scale Invariant Image Refiner. Treats pixels like tokens, uses axial and cross attention with per-pixel conditioning and relative positional embedding, trained to predict noise like a diffusion model.
