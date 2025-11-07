@@ -12,7 +12,7 @@ My playground for various ML projects, in no specific order or grouping. I just 
 - #### [S2IR](https://github.com/Yegor-men/S2IR)
 Scale Invariant Image Refiner. Treats pixels like tokens, uses axial and cross attention with per-pixel conditioning and relative positional embedding, trained to predict noise like a diffusion model.
 
-- #### [Pixelart Glyph Creator]([https://github.com/Yegor-men/S2IR](https://github.com/Yegor-men/pixelart_glyph_creator))
+- #### [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart_glyph_creator)
 A simple pixelart glyph creator for flexible sizes. Flexible rules with blacklisted and whitelisted kernels and symmetry rules. Creates an SQLite database of all valid glyphs, and then renders the glyphs from the database.
 
 ### Sunsetted:
