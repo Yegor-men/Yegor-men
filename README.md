@@ -4,7 +4,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 ## Projects
 ### In Development:
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
-A python library implementing eligibility propagation in an easy to use, PyTorch-esque manner.
+A small, lightweight, and highly opinionated spiking neural network library for PyTorch.
 
 - #### [ml-playground](https://github.com/Yegor-men/ml-playground)
 My playground for various ML projects, in no specific order or grouping. I just got tired of having a billion repositories, needing to log each one while generally reusing a fair portion of the code, so from now on everything (unless it's something specific) will be in here instead.
