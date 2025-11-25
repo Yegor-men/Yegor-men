@@ -6,6 +6,19 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
+traceTorch is bult around a single, highly compositional neuron superclass, replacing the restrictive "layer zoo" of
+countless disjoint neuron types with the `LeakyIntegrator`. This design encapsulates a massive range of SNN dynamics:
+
+- synaptic and recurrent filtering
+- rank-based parameter scoping for scalar, per-neuron or matrix weights
+- optional Exponential Moving Average (EMA) on any hidden state
+- arbitrary recurrence routing to any hidden state
+- flexible polarity for spike outputs: positive and/or negative
+
+All into declarative configuration on one class. By abstracting this complexity, traceTorch provides both the robust
+simplicity required for fast prototyping via familiar wrappers (`LIF`, `RLIF`, `SLIF`, `Readout`, etc.) and the
+unprecedented flexibility required for real research.
+
 - #### [ml-playground](https://github.com/Yegor-men/ml-playground)
 My playground for various ML projects, in no specific order or grouping. I just got tired of having a billion repositories, needing to log each one while generally reusing a fair portion of the code, so from now on everything (unless it's something specific) will be in here instead.
 
