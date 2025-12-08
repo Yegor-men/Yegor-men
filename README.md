@@ -5,7 +5,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 All projects are split into three types:
 - **ACTIVE:** Projects that I'm actively working on
 - **INACTIVE:** Projects with potential that I may come back to or may drop
-- **SUNSETTED:** Repositories that are archived for one reason or another, that I will not come back to no matter what.
+- **ARCHIVED:** Repositories that are archived for one reason or another, that I will not come back to no matter what.
 
 ### Featured:
 - [traceTorch](#tracetorch)
