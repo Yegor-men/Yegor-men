@@ -14,6 +14,9 @@ All projects are split into three types:
 ### ACTIVE
 These projects are in "active" development, meaning that whilst commits are not necessarily active, the projects themselves are on my mind.
 
+- #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
+A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
+
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
@@ -22,9 +25,6 @@ These are projects that used to be active, but I've put a pause on them, at leas
 
 - #### [ReplAI](https://github.com/Yegor-men/replAI)
 An LLM connected to a discord bot to improve the immersiveness of classic chatbots.
-
-- #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
-A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
 
 - #### [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator)
 A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
