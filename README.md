@@ -10,6 +10,7 @@ All projects are split into three types:
 ### Featured:
 - [traceTorch](#tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 - [Pixelart Glyph Creator](#pixelart-glyph-creator): A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
+- [SIID (Scale Invariant Image Diffuser)](#scale-invariant-image-diffuser): A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
 
 ### ACTIVE
 These projects are in "active" development, meaning that whilst commits are not necessarily active, the projects themselves are on my mind.
