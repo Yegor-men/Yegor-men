@@ -10,19 +10,22 @@ All projects are split into three types:
 ### Featured:
 - [traceTorch](#tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 - [Pixelart Glyph Creator](#pixelart-glyph-creator): A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
-- [SIID (Scale Invariant Image Diffuser)](#scale-invariant-image-diffuser): A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
+- [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)L: A resolution invariant, gaussian splatting image generator
 
 ### ACTIVE
 These projects are in "active" development, meaning that whilst commits are not necessarily active, the projects themselves are on my mind.
 
-- #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
-A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
+- #### [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)
+An evolution to SIID (S2ID), RIGSIG creates gaussian splats in 3d space (3rd dimension representative of aspect ratios), and samples at coordinates are taken for sampling. The model generates the gausian splat field, and afterwards you can sample it for whatever aspect ratio and resolution you want.
 
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
 ### INACTIVE
 These are projects that used to be active, but I've put a pause on them, at least for now. They'll either go back to [ACTIVE](#active), or move to [ARCHIVED](#archived), depending on the vibe and further developments of other projects. Frequent commits here are either absent or very sparse.
+
+- #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
+A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
 
 - #### [ReplAI](https://github.com/Yegor-men/replAI)
 An LLM connected to a discord bot to improve the immersiveness of classic chatbots.
