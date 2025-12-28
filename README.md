@@ -8,9 +8,9 @@ All projects are split into three types:
 - **ARCHIVED:** Repositories that are archived for one reason or another, that I will not come back to no matter what.
 
 ### Featured:
-- [traceTorch](#tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
-- [Pixelart Glyph Creator](#pixelart-glyph-creator): A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
-- [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)L: A resolution invariant, gaussian splatting image generator
+- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
+- [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator): A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
+- [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG): A resolution invariant, gaussian splatting image generator
 
 ### ACTIVE
 These projects are in "active" development, meaning that whilst commits are not necessarily active, the projects themselves are on my mind.
