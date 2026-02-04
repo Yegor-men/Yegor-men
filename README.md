@@ -2,7 +2,7 @@
 I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtime learning. I don't think there's anything inherently special in human intelligence, and hence I think it can be computationally recreated. Since online learning occurs in biological systems through spiking mechanisms, I see SNNs as a promising direction toward achieving similar capabilities in artificial systems.
 
 ### Prized works:
-- [traceTorch 🧠🔥](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
+- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 - [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator): A procedural binary pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
 
 ## Projects
