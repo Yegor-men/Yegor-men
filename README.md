@@ -93,7 +93,7 @@ Neural networks in raw python lists and layer-by-layer backpropagation; later ad
 
 
 ## Contact
-It is best to contact me via email: yegor.mn@gmail.com
+It is best to contact me via email: yegor.mn@gmail.com or [LinkedIn](https://www.linkedin.com/in/yegor-men/)
 
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
