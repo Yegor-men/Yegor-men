@@ -1,41 +1,39 @@
 ## About me
 I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtime learning. I don't think there's anything inherently special in human intelligence, and hence I think it can be computationally recreated. Since online learning occurs in biological systems through spiking mechanisms, I see SNNs as a promising direction toward achieving similar capabilities in artificial systems.
 
+### Prized works:
+- [traceTorch 🧠🔥](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
+- [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator): A procedural binary pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
+
 ## Projects
-All projects are split into three types:
+Projects are split into three types:
 - **ACTIVE:** Projects that I'm actively working on
 - **INACTIVE:** Projects with potential that I may come back to or may drop
 - **ARCHIVED:** Repositories that are archived for one reason or another, that I will not come back to no matter what.
 
-### Featured:
-- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
-- [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator): A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
-- [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG): A resolution invariant, gaussian splatting image generator
-
 ### ACTIVE
 These projects are in "active" development, meaning that whilst commits are not necessarily active, the projects themselves are on my mind.
-
-- #### [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)
-An evolution to SIID (S2ID), RIGSIG creates gaussian splats in 3d space (3rd dimension representative of aspect ratios), and samples at coordinates are taken for sampling. The model generates the gausian splat field, and afterwards you can sample it for whatever aspect ratio and resolution you want.
 
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
 ### INACTIVE
-These are projects that used to be active, but I've put a pause on them, at least for now. They'll either go back to [ACTIVE](#active), or move to [ARCHIVED](#archived), depending on the vibe and further developments of other projects. Frequent commits here are either absent or very sparse.
+These are projects that used to be active, but I've put a pause on them, at least for now. They'll either go back to [ACTIVE](#active), or move to [ARCHIVED](#archived), depending on the vibe and further developments of other projects. Commits here are either absent or very sparse.
 
 - #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
 A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
 
-- #### [ReplAI](https://github.com/Yegor-men/replAI)
-An LLM connected to a discord bot to improve the immersiveness of classic chatbots.
+- #### [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)
+An evolution to SIID (S2ID), RIGSIG creates gaussian splats in 3d space (3rd dimension representative of aspect ratios), and samples at coordinates are taken for sampling. The model generates the gausian splat field, and afterwards you can sample it for whatever aspect ratio and resolution you want.
 
 - #### [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator)
 A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
 
+- #### [ReplAI](https://github.com/Yegor-men/replAI)
+An LLM connected to a discord bot to improve the immersiveness of classic chatbots.
+
 - #### [ML playground](https://github.com/Yegor-men/ml-playground)
 A simple playground for various ML projects, used for quick tests or experiments. I just got tired of having a billion repositories, so now they're all dumped into here. The occasional good idea gets its own repository to which I move the code.
-
 
 ### ARCHIVED
 The repositories in this list are permanently archived. I will not come back to them, and even if I revisit the problem / idea they were trying to solve, I will instead make a new repository for it rather than working with old code.
@@ -49,7 +47,7 @@ There are various reasons as to why a project got archived:
 
 Each project also features the **Last Meaningful Update** (LMU). It's an arbitrary date when I feel that I stopped implementing any actual ideas, commits beyond that date are what I consider to be aesthetic changes, not something actually novel.
 
-The `README.md` of each of these projects is also edited to explain the context, workings, and the lessons learnt throughout the development; all in much more detail than briefly stated here.
+The `README.md` of each of these projects is also edited to explain the context, workings, and the lessons learnt throughout the development; all in more detail (depends on the mood) than briefly stated here.
 
 - #### [Backpropagation Over Time](https://github.com/Yegor-men/backpropagation-over-time) - 🔁 Superseded - LMU on [2025-07-30]
 Layer by layer backpropagation with learning signals that occurs over time; biologically plausible.
@@ -95,9 +93,7 @@ Neural networks in raw python lists and layer-by-layer backpropagation; later ad
 
 
 ## Contact
-It's best to contact me either via email or Twitter:
-- email: yegor.mn@gmail.com
-- [Twitter](https://x.com/Yegor_Men)
+It is best to contact me via email: yegor.mn@gmail.com
 
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
