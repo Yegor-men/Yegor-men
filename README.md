@@ -17,14 +17,14 @@ These projects are in "active" development, meaning that whilst commits are not 
 - #### [traceTorch](https://github.com/Yegor-men/tracetorch)
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
-- #### [Scale Invariant Image Diffuser](https://github.com/Yegor-men/scale-invariant-image-diffuser)
-A diffusion model guided entirely by axial attention and relative coordinate positional embedding.
+- #### [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser)
+A resolution invariant diffusion model, working on cloud point attention and relative coordinate positional embedding.
 
 ### INACTIVE
 These are projects that used to be active, but I've put a pause on them, at least for now. They'll either go back to [ACTIVE](#active), or move to [ARCHIVED](#archived), depending on the vibe and further developments of other projects. Commits here are either absent or very sparse.
 
-- #### [Resolution Invariant Gaussian Splatting Image Generation (RIGIG)](https://github.com/Yegor-men/RIGSIG)
-An evolution to SIID (S2ID), RIGSIG creates gaussian splats in 3d space (3rd dimension representative of aspect ratios), and samples at coordinates are taken for sampling. The model generates the gausian splat field, and afterwards you can sample it for whatever aspect ratio and resolution you want.
+- #### [Resolution Invariant Gaussian Splatting Image Generator (RIGIG)](https://github.com/Yegor-men/RIGSIG)
+An evolution to RIID (R2ID), RIGSIG generates images by creating gaussian splats and subsequently sampling points to get the image.
 
 - #### [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator)
 A procedural pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
