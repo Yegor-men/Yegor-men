@@ -3,7 +3,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 
 ### Prized works:
 - [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
-- [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser): A resolution invariant diffusion model, working on cloud point attention and relative coordinate positional embedding.
+- [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser): A resolution invariant autoencoder (RIAE) and a resolution invariant diffusion model (R2ID), working on cloud point attention and relative coordinate positional embedding. 
 - [Pixelart Glyph Creator](https://github.com/Yegor-men/pixelart-glyph-creator): A procedural binary pixelart glyph creator with flexible rules for templates, blacklist and whitelist kernels.
 
 ## Projects
@@ -19,7 +19,7 @@ These projects are in "active" development, meaning that whilst commits are not 
 A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
 
 - #### [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser)
-A resolution invariant diffusion model, working on cloud point attention and relative coordinate positional embedding.
+A resolution invariant autoencoder (RIAE) and a resolution invariant diffusion model (R2ID), working on cloud point attention and relative coordinate positional embedding. 
 
 ### INACTIVE
 These are projects that used to be active, but I've put a pause on them, at least for now. They'll either go back to [ACTIVE](#active), or move to [ARCHIVED](#archived), depending on the vibe and further developments of other projects. Commits here are either absent or very sparse.
