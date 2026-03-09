@@ -7,7 +7,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 - [Resolution Invariant Gaussian Splat Image Generator (RIGSIG)](https://github.com/Yegor-men/RIGSIG): An evolution to R2ID, RIGSIG generates images by creating and moving gaussian splats and subsequently sampling points to get the image.
 
 ### Contact
-It is best to contact me via email: yegor.mn@gmail.com or [LinkedIn](https://www.linkedin.com/in/yegor-men/)
+It is best to contact me via [LinkedIn](https://www.linkedin.com/in/yegor-men/), [X](https://x.com/yegor_men), or email: yegor.mn@gmail.com.
 
 <!--
 **Yegor-men/Yegor-men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
