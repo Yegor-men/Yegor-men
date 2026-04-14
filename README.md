@@ -2,7 +2,7 @@
 I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtime learning. I don't think there's anything inherently special in human intelligence, and hence I think it can be computationally recreated. Since online learning occurs in biological systems through spiking mechanisms, I see SNNs as a promising direction toward achieving similar capabilities in artificial systems.
 
 ### Active and upcoming projects:
-- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.
+- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful library for SNNs, RNNs and SSMs in PyTorch. 
 - [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser): A resolution invariant image resampler (R2IR) and a resolution invariant image diffusion model (R2ID), working on linear attention and relative coordinate positional embedding.
 - [Resolution Invariant Gaussian Splat Image Generator (RIGSIG)](https://github.com/Yegor-men/RIGSIG): An evolution to R2ID, RIGSIG generates images by creating and moving gaussian splats and subsequently sampling points to get the image.
 
