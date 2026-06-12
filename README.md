@@ -3,7 +3,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 
 ### Active and upcoming projects:
 - [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful library for SNNs, RNNs and SSMs in PyTorch. 
-- [Resolution Invariant Image Diffuser (R2ID)](https://github.com/Yegor-men/resolution-invariant-image-diffuser): A resolution invariant image resampler (R2IR) and a resolution invariant image diffusion model (R2ID), working on linear attention and relative coordinate positional embedding.
+- [Resolution Invariant Field Transformer (RIFT)](https://github.com/Yegor-men/RIFT): A reoslution invariant way of using transformers, used for image generation.
 - [Resolution Invariant Gaussian Splat Image Generator (RIGSIG)](https://github.com/Yegor-men/RIGSIG): An evolution to R2ID, RIGSIG generates images by creating and moving gaussian splats and subsequently sampling points to get the image.
 
 ### Contact
