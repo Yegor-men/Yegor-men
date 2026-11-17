@@ -1,10 +1,9 @@
 ## About me
 I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtime learning. I don't think there's anything inherently special in human intelligence, and hence I think it can be computationally recreated. Since online learning occurs in biological systems through spiking mechanisms, I see SNNs as a promising direction toward achieving similar capabilities in artificial systems.
 
-### Active and upcoming projects:
-- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful library for SNNs, RNNs and SSMs in PyTorch. 
-- [Resolution Invariant Field Transformer (RIFT)](https://github.com/Yegor-men/RIFT): A reoslution invariant way of using transformers, used for image generation.
-- [Resolution Invariant Gaussian Splat Image Generator (RIGSIG)](https://github.com/Yegor-men/RIGSIG): An evolution to R2ID, RIGSIG generates images by creating and moving gaussian splats and subsequently sampling points to get the image.
+### Prized works:
+- [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful library for developing SNNs and RNNs in PyTorch. 
+- [Glyph Foundry](https://github.com/Yegor-men/glyph-foundry): Procedurally generate pixelart glyphs
 
 ### Contact
 It is best to contact me via [LinkedIn](https://www.linkedin.com/in/yegor-men/) or email: yegor.mn@gmail.com.
