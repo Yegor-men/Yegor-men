@@ -3,7 +3,7 @@ I'm interested in AI, with a focus on Spiking Neural Networks (SNNs) and realtim
 
 ### Prized works:
 - [traceTorch](https://github.com/Yegor-men/tracetorch): A strict, ergonomic, and powerful library for developing SNNs and RNNs in PyTorch. 
-- [Glyph Foundry](https://github.com/Yegor-men/glyph-foundry): Procedurally generate pixelart glyphs
+- [Glyph Foundry](https://github.com/Yegor-men/glyph-foundry): A browser-based procedural generator for pixel-art glyphs.
 
 ### Contact
 It is best to contact me via [LinkedIn](https://www.linkedin.com/in/yegor-men/) or email: yegor.mn@gmail.com.
